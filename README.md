@@ -10,3 +10,5 @@ To detect online payment fraud using machine learning, we must first train a mod
 - **oldbalanceDest:** Denotes the initial balance of the recipient before the transaction.
 - **newbalanceDest:** Represents the updated balance of the recipient after the transaction.
 - **isFraud:** Binary indicator denoting whether the transaction is fraudulent or not.
+
+link to dataset: https://www.kaggle.com/datasets/jainilcoder/online-payment-fraud-detection
